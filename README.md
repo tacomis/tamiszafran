@@ -1,5 +1,3 @@
-# tamiszafran
-Self Introduction (READ ME)
 
 # Hi, I'm Tamis 👋
 
@@ -17,5 +15,5 @@ Aspiring Software Engineer
 - Data Analysis Dashboard
 
 ## Contact
-Email: your@email.com
-LinkedIn: your-link
+Email:altamiszafran2@gmail.com
+LinkedIn: www.linkedin.com/in/muhammadaltamiszafran
