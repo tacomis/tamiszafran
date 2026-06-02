@@ -9,10 +9,16 @@ Aspiring Software Engineer
 - JavaScript
 - Git/GitHub
 
-## Projects
-- Student Management System
-- Weather App
-- Data Analysis Dashboard
+## Featured Projects
+
+### ItemCloud Smart Locker
+Automated lost-and-found management system integrating web technologies, cloud services, sensors, and smart locker hardware.
+
+### SwitchOff
+IoT-based system involving hardware implementation, physical connectivity design, and project documentation.
+
+### Student Attendance System
+Attendance management solution developed during academic studies.
 
 ## Contact
 Email:altamiszafran2@gmail.com
